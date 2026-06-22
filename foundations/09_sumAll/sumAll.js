@@ -10,7 +10,7 @@ const sumAll = function(num1, num2) {
     console.log(i);
     result += i;
   }
-  
+
   return result;
 };
 
